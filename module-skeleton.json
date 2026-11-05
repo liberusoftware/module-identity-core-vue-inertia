@@ -1,0 +1,25 @@
+{
+  "repository": "module-identity-core-vue-inertia",
+  "capabilityKey": "liberusoftware/identity-core",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-identity-core-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/boilerplate/nextjs/identity-core.md",
+  "presentationPlan": "projects/boilerplate/vue/identity-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
